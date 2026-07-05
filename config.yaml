@@ -1,0 +1,8 @@
+input_format: fasta
+batch_size: 1000
+output_dir: output
+log_level: INFO
+min_length: 50
+max_length: null
+gc_min: 0.2
+gc_max: 0.8
